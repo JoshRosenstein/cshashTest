@@ -2,6 +2,6 @@
     "name": "cshashTest",
     "version": "0.0.1",
     "main": "lib/index.js",
-"dependencies": {},
-"devDependencies": {}
+"dependencies": {"react": "16.5.2"}
+
 }
