@@ -1,10 +1,7 @@
 {
     "name": "cshashTest",
     "version": "0.0.1",
-    "modulename": "futils",
-    "description": "My JavaScript utils library",
     "main": "lib/index.js",
-"private":true,
 "dependencies": {},
 "devDependencies": {}
 }
